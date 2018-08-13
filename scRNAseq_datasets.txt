@@ -1,0 +1,51 @@
+
+Data sets and data processing
+We used the following publicly-available data sets:
+• 293T cells from Zheng et al. (2017)13 (https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/293t)
+• Jurkat cells from Zheng et al. (2017)13 (https://support.10xgenomics.com/single-cell-
+gene-expression/datasets/1.1.0/jurkat)
+• 50:50 Jurkat:293T cell mixture from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/jurkat:293t_50:50)
+• 99:1 Jurkat:293T cell mixture from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/jurkat_293t_99_1)
+• Mouse neurons from 10x Genomics (unpublished)
+(https://support.10xgenomics.com/single-cell-gene-expression/datasets/2.1.0/neuron_9k)
+• Macrophages (Mtb infected) (pending final GEO approval)
+• Macrophages (Mtb exposed) from Gierahn et al. (2017)21 (GSE92495)
+• Macrophages (unexposed) (pending final GEO approval)
+• Macrophages (unexposed) from Gierahn et al. (2017)21 (GSE92495)
+• Mouse hematopoietic stem cells (HSCs) from Paul et al. (2015)14 (GSE72857)
+• Mouse HSCs from Nestorowa et al. (2016)15 (GSE81682)
+• Human pancreatic islet cells from Baron et al. (2016)22 (GSE84133)
+• Human pancreatic islet cells from Muraro et al. (2016)23 (GSE85241)
+         
+bioRxiv preprint first posted online Jul. 17, 2018; doi: http://dx.doi.org/10.1101/371179. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It is made available under a CC-BY 4.0 International license.
+• Human pancreatic islet cells from Grün et al. (2016)24 (GSE81076)
+• Human pancreatic islet cells from Lawlor et al. (2017)25 (GSE86469)
+• Human pancreatic islet cells from Segerstolpe et al. (2016)26 (E-MTAB-5061)
+• Human PBMCs from Zheng et al. (2017)13 (https://support.10xgenomics.com/single-cell-
+gene-expression/datasets/1.1.0/fresh_68k_pbmc_donor_a)
+• Human CD19+ B cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/b_cells)
+• Human CD14+ monocytes from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/cd14_monocytes)
+• Human CD4+ helper T cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/cd4_t_helper)
+• Human CD56+ natural killer cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/cd56_nk)
+• Human CD8+ cytotoxic T cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/cytotoxic_t)
+• Human CD4+/CD45RO+ memory T cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/memory_t)
+• Human CD4+/CD25+ regulatory T cells from Zheng et al. (2017)13
+(https://support.10xgenomics.com/single-cell-gene-
+expression/datasets/1.1.0/regulatory_t)
+• Human PBMCs from Kang et al. (2018)27 (GSE96583)
+            
+bioRxiv preprint first posted online Jul. 17, 2018; doi: http://dx.doi.org/10.1101/371179. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It is made available under a CC-BY 4.0 International license.
+• Human PBMCs from 10x Genomics (unpublished) (https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k)
