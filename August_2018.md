@@ -261,6 +261,16 @@ Based on Random Projection](https://arxiv.org/abs/1706.04371)
 
 [How Many Factors to Retain in Factor Analysis](https://www.r-bloggers.com/how-many-factors-to-retain-in-factor-analysis)
 
+### PCA
+[Plotting PCA (Principal Component Analysis)](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html) ggplot ploting with loading vectors and elipsoinds
+
+[Computing and visualizing PCA in R](https://www.r-bloggers.com/computing-and-visualizing-pca-in-r/) - ggplot ploting with loading vectors and elipsoinds
+[blog link](https://tgmstat.wordpress.com/2013/11/28/computing-and-visualizing-pca-in-r/)
+
+[PCA revisited](https://www.r-bloggers.com/pca-revisited/) - manual PCA form covariance matrix with photos of faces
+
+[MAKING A COVARIANCE MATRIX IN R](https://stats.seandolinar.com/making-a-covariance-matrix-in-r/)
+
 
 #### Lectures
 [Mining of Massive Datasets web](http://www.mmds.org/)
