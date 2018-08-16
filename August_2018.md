@@ -269,7 +269,10 @@ Based on Random Projection](https://arxiv.org/abs/1706.04371)
 
 [PCA revisited](https://www.r-bloggers.com/pca-revisited/) - manual PCA form covariance matrix with photos of faces
 
+[PCA revisited: using principal components for classification of faces](https://www.r-bloggers.com/pca-revisited-using-principal-components-for-classification-of-faces/)
+
 [MAKING A COVARIANCE MATRIX IN R](https://stats.seandolinar.com/making-a-covariance-matrix-in-r/)
+
 
 
 #### Lectures
